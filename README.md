@@ -1,5 +1,9 @@
 # RPM_ImageRecognition
-AI model recognizing hand gesture from game rock-paper-scissors.
+
+Group project for: 
+> Data Representation and Data Analysis - Warsaw University of Technology
+
+AI model recognizing hand gestures from game rock-paper-scissors.
 
 > .ipynb file is a report about the model - how it was created, and its corectness on a given topic.
 
@@ -9,4 +13,4 @@ AI model recognizing hand gesture from game rock-paper-scissors.
 
 > Model data: https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors
 
-*Note: Report made in **polish** language.*
+*Note: Report made in **polish**.*
