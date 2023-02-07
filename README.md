@@ -1,7 +1,6 @@
 # RPM_ImageRecognition
 
-Group project for: 
-> Data Representation and Data Analysis - Warsaw University of Technology
+Group project made during my 3rd term of CS studies - Data Representation and Data Analysis - Warsaw University of Technology
 
 AI model recognizing hand gestures from game rock-paper-scissors.
 
